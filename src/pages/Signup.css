@@ -1,0 +1,6 @@
+/* Signup uses the same styles as Login, defined in Login.css */
+/* Additional specific styles can be added here if needed */
+
+.auth-card form .input-group:last-of-type {
+  margin-bottom: 0;
+}
